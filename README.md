@@ -2,7 +2,7 @@
 
 **Début de l'examen**
 
-1. Télécharger l'archive [ici](https://duckduckgo.com](https://drive.google.com/file/d/16c3wByvDbxOEgAgNsOsKkMr589GEvHvJ/view?usp=sharing). Faites attention à **bien repérer le chemin où est stockée l'archive sur votre espace de travail.**
+1. Télécharger l'archive [ici](https://drive.google.com/file/d/16c3wByvDbxOEgAgNsOsKkMr589GEvHvJ/view?usp=sharing). Faites attention à **bien repérer le chemin où est stockée l'archive sur votre espace de travail.**
 2. Extraire les fichiers de l'archive. Ceci va créer un répertoire nommé XXXXX
 3. Renommez le répertoire XXXX en NOM-PRENOM-XXXX
 4. Suivre les instructions du fichier pdf qui se trouve dans le répertoire
