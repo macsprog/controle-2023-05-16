@@ -14,5 +14,5 @@
 ```
 $ zip -r NOM-PRENOM-XXXX.zip NOM-PRENOM-XXXX
 ```
-3. Envoyez l'archive par email avec pour destinaires: `macsprog@gmail.com` et `macsprog@gmail.com`
+3. Envoyez l'archive par email avec pour destinaires: `macsprog@gmail.com` et `samuel.kokh@univ-paris13.fr`
 4. Faites une copie de l'archive sur la clef USB qui circule en classe
